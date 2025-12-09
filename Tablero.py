@@ -7,3 +7,5 @@ class Tablero:
 
     def atacar(self, f, c):
         return "Impacto" if self.grid[f][c] == 'B' else "Agua"
+
+    "Este comentario lo deja Adrian"
