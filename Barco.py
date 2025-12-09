@@ -8,3 +8,4 @@ class Barco:
     def tamano(self):
         """Devuelve el tamaño del barco (número de unidades)."""
         return len(self.unidades)
+ "Comentario de David"
